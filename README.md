@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItzhakBlack
-- 👀 I’m interested in develop web aplications, UX/UI Design, Agile Methologies. I'm Scrum Master and recently I learned about DevOps Foundations. I've been trainning
+- 👀 Analysis and develop web aplications, UX/UI Design, Agile Methologies. I'm Scrum Master and recently I learned about DevOps Foundations. Using
      in Python, Ruby and SQL by default for my functions.
      Actually I'm Applications Especialist on my work. I'm the interpreter o translator between client and developers. Usually I work with User Histories, Wireframes,
      Mockups, Testing and Process Mapping.
